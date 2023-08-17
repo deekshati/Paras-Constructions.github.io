@@ -1,0 +1,16 @@
+html {
+    font-size: 33px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+h1{
+
+    color:rgb(254, 254, 254);
+    background-color:lightblue;
+
+}
+body {
+    background-color:white;
+    color: #333;
+}
+ 
